@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Vkluchuvame TV...");
         film.showAtt();
         System.out.println("----------------");
-        System.out.println("Go ostavame filmot!");
+        System.out.println("Go ostavame Filmot!");
         film.gledanEfilmot();
         System.out.println("----------------");
         System.out.println("Televizorot seushte e vkluchen na istiot kanal....!!!");
